@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">contentapp</string>
+    <string name="image_description">Mô tả của hình ảnh</string>
+</resources>
